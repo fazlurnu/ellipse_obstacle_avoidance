@@ -6,7 +6,7 @@ This project shows an obstacle can be avoided by considering the obstacle as an 
     <img src="media/example.png" width="400">
 </p>
 
-During my undergraduate thesis, I implemented this method to a quadcopter. A commerical off the shelf flight controller is used for the stabilization while an Arduino is installed to read data from ultrasonic sensors and commanding the drone. The result can be seen in the image below (redirected to a youtube link). A paper related to this article has been published [here](https://iopscience.iop.org/article/10.1088/1742-6596/1005/1/012037).
+During my undergraduate thesis, I implemented this method to a quadcopter. A commerical off the shelf flight controller is used for the stabilization while an Arduino is installed to read data from ultrasonic sensors and commanding the drone. The result can be seen in the image below (redirected to a youtube link). A paper disucssing the implementation has been published [here](https://iopscience.iop.org/article/10.1088/1742-6596/1005/1/012037).
 
 [![Avoidance of the ellipse-based obstacle avoidance](media/quadcopter_obs_avoidance.png)](https://www.youtube.com/watch?v=JQ612zsfXTM)
 
